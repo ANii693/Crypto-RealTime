@@ -35,8 +35,9 @@
   
 .pagination-link-active.pagination-link{
     
-    background-color: rgba(0, 0, 0, 0.664);
-    border: 1.5px solid cyan;
+    background-color: cyan;
+    color: black;
+    border: 1px solid black;
     
 
   }
